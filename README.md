@@ -2,7 +2,7 @@
 
 Crypt-ToolsInstaller, developed by Crypt-tors, is a Python3 project for Termux. It offers tools for information gathering, vulnerability scanning, IP tracking, IDE editing, and password attacks. It simplifies the installation and management of these essential cybersecurity functionalities.
 
-## About Crypt-ToolInstaller
+## About Crypt-ToolsInstaller
 The downloaded tools will be placed exclusively in the designated location within the path labeled 'Crypt-ToolsInstaller'
 
 
@@ -12,8 +12,8 @@ The downloaded tools will be placed exclusively in the designated location withi
 ````
 $ apt update && upgrade
 $ apt install git python3 -y
-$ git clone https://github.com/Crypt-tors/Crypt-Tools
-$ cd Crypt-Tools
+$ git clone https://github.com/Crypt-tors/Crypt-ToolsInstaller
+$ cd Crypt-ToolsInstaller
 ````
 ### Usage:
 
