@@ -23,8 +23,8 @@ def design():
 
     # Display the project title
     print("######################################################")
-    print("#        ", project_name,'               #')
-    print("#        Author: ", author,'                       #')
+    print("#        ", project_name,'                          #')
+    print("#        Author: ", author,'                        #')
     print("######################################################")
 
 
